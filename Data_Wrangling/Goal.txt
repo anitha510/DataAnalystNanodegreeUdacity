@@ -1,0 +1,26 @@
+Your goal: wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
+
+
+Data
+WeRateDogs Twitter archive - tweet's text, rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo)  twitter_archive_enhanced.csv
+
+Additional Data via the Twitter API -  retweet count and favorite count and any additional data you find interesting
+tweet_json.txt
+
+Image Predictions File - tweet ID, image URL, and the image number that corresponded to the most confident prediction 
+https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv
+
+Assessing Data for this Project
+the requirements of this project are only to assess and clean at least 8 quality issues and at least 2 tidiness issues in this dataset.
+
+Cleaning Data for this Project
+Clean each of the issues you documented while assessing.
+
+Storing, Analyzing, and Visualizing Data for this Project
+Store the clean DataFrame(s) in a CSV file with the main one named twitter_archive_master.csv. 
+
+Analyze and visualize your wrangled data in your wrangle_act.ipynb Jupyter Notebook. At least three (3) insights and one (1) visualization must be produced.
+
+Reporting for this Project
+Create a 300-600 word written report called wrangle_report.pdf or wrangle_report.html that briefly describes your wrangling efforts. This is to be framed as an internal document.
+Create a 250-word-minimum written report called act_report.pdf or act_report.html that communicates the insights and displays the visualization(s) produced from your wrangled data.
